@@ -36,7 +36,7 @@ var showSchema = new mongoose.Schema({
 
 var Show = mongoose.model('Show', showSchema);
 
-mongoose.connect('localhost');
+mongoose.connect('mongodb://test:test@ds035270.mongolab.com:35270/showtracker');
 
 var app = express();
 
