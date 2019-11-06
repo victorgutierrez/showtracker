@@ -15,7 +15,7 @@
     "express": "~4.8.6",
     "jade": "~1.5.0",
     "lodash": "^2.4.1",
-    "mongoose": "^3.8.16",
+    "mongoose": "^5.7.8",
     "morgan": "~1.2.3",
     "request": "^2.42.0",
     "serve-favicon": "~2.0.1",
